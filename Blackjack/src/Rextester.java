@@ -5,6 +5,10 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
+/**
+ * @author mknight
+ *
+ */
 class Card 
 {
 	public enum Suit {SPADES, CLUBS, HEARTS, DIAMONDS};
